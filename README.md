@@ -12,13 +12,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chiardelli/Chiardelli/output/snake.svg" alt="Snake animation" />
+  <img src="https://media.tenor.com/EUy9ubwFzNIAAAAi/citto-ditto.gif" height="100" />
+</div>
 
-<img align="right" height="150" src="https://media.tenor.com/EUy9ubwFzNIAAAAi/citto-ditto.gif"  />
-
-###
-
-<br clear="both">
-
-![Snake animation]()
 
 ###
