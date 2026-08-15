@@ -1,4 +1,4 @@
-<h2 align="left">🌸 Hi! My name is Lais Chiardelli, welcome to my profile (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h2>
+<h2 align="left">🌸 welcome to my profile (˶ᵔ ᵕ ᵔ˶) ‹𝟹</h2>
 
 ###
 
